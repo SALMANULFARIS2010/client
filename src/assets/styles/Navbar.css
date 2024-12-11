@@ -1,0 +1,28 @@
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  padding: 15px 50px;
+  background-color: #181616;
+  color: white;
+}
+
+.navbar .logo {
+  width: 420px; 
+  height: 110px; 
+  background-image: url('https://s3-alpha-sig.figma.com/img/22e3/1e48/6860545013e0a63ba8cb7e94004971f7?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o-WEUq4CJ4pKS67-0Yfv8slD05pbDNN9i7JxJYRUD-sTFtt9xlGbphtEn9tg871wfSQBCj7VtI4oxCfsNMntjBcNPRxgrtx0Dg3Pj9JzIaDOCBnkscALrTL4inHofgiRXzIZrq~Fp1t2rRqW7epVW7oBum4ergd5C6p5fbxutCNTcncAiMGNGr7wJ5OWDOtj9QNwq~RvEBG81TZQxw5v4~pXrDA7PFs4eev2jQoM97q9FZ~TLAcw~QxnSHF8WV6SzD196YBLPiEjUtrgirQ9XfXT8DQWZi9O9jLCS5OXGlbWAhefFqxlBKrHFPcqni3aJ12MO3b3ddPcxj9jeBlfSQ__');
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar .links a {
+  margin-left: 20px;
+  color: white;
+  text-decoration: none;
+}
+.navbar .logo { 
+  color: blue;
+
+}
